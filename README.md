@@ -48,22 +48,6 @@ const myExpertise = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EishaTab&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EishaTab&theme=radical" alt="GitHub Streak" />
-</div>
-
-## 🌟 Featured Projects
-
-- **E-commerce Platform**: Built responsive online store with product catalog, cart functionality, and secure checkout
-- **Email Marketing System**: Developed custom solution for campaign management and analytics
-- **Task Management App**: Created intuitive interface for managing projects and tasks with real-time updates
-
 ## 📫 How to Reach Me
 
 <p align="center">
